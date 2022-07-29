@@ -23,4 +23,4 @@ Using this content based recomendation, we get a glimpse to the recommendation s
 
 Constraints: 
 <br>
-1. Some form of interpretability.
+Some form of interpretability.

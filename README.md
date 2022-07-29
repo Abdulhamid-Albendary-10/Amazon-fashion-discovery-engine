@@ -19,8 +19,8 @@ amazon.com
 <h2> 1.4 Real world/Business Objectives and constraints  </h2>
 Objectives: 
 <br>
-Using this content based recomendation, we get a glimpse to the recommendation systems at Amazon, constantly recommending the right products to customers.
+1. Using this content based recomendation, we get a glimpse to the recommendation systems at Amazon, constantly recommending the right products to customers.
 
 Constraints: 
 <br>
-Some form of interpretability.
+1. Some form of interpretability.

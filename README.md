@@ -17,12 +17,11 @@ Build a recommendation engine which suggests similar products to the given produ
 amazon.com
 </p>
 <h2> 1.4 Real world/Business Objectives and constraints  </h2>
-Objectives: 
-<br>
-<br>
+<h4> Objectives </h4>
+<p>
 Using this content based recomendation, we get a glimpse to the recommendation systems at Amazon, constantly recommending the right products to customers.
-
-Constraints: 
-<br>
-<br>
+</p>
+<h4> Constraints </h4>
+<p>
 Some form of interpretability.
+</p>
